@@ -1,19 +1,44 @@
-# Hi, I'm Aryan 👋
+<h1 align="center">Hey 👋 I'm Aryan</h1>
+<h3 align="center">Java • DSA • Backend Builder</h3>
 
-## 🚀 About Me
-- 🎯 Java + DSA focused
-- 💻 Backend enthusiast
-- 📚 Preparing for placements
+<p align="center">
+  <a href="https://github.com/SEMWALARYAN">
+    <img src="https://komarev.com/ghpvc/?username=SEMWALARYAN&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-## 🛠 Tech Stack
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛠 Tech Stack
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java,mysql,docker,tailwind,mongodb,nodejs,spring" />
+</p>
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEMWALARYAN&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEMWALARYAN&layout=compact&theme=tokyonight)
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEMWALARYAN&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEMWALARYAN&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🔥 Consistency
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEMWALARYAN&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🎯 Focus
+
+```text
+→ Clean Code
+→ Strong DSA
+→ Backend Engineering
+→ Real Projects
